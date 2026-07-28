@@ -147,7 +147,7 @@ https://www.figma.com/proto/C83Q4PnidJIeDFwOhLWVto/Trade-Republic-Wallets---Prot
 # 📄 Project Deliverables
 
 ### Product Requirements Document (PRD)
-[📄 View Product Requirements Document](Trade Republic Wallets-PRD.md)
+[📄 View Product Requirements Document](PRD.md)
 
 Defines:
 
@@ -164,6 +164,7 @@ Defines:
 ---
 
 ### Story Map
+[🗺️ View Story Map](UserStoryMap.pdf)
 
 A complete Story Mapping exercise was used to:
 
@@ -175,6 +176,7 @@ A complete Story Mapping exercise was used to:
 ---
 
 ### Jira Backlog
+![Jira Backlog](Backlog.png)
 
 The project backlog contains:
 
