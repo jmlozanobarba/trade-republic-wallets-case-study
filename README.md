@@ -2,18 +2,24 @@
 End-to-end Product Management case study for a Wallets MVP at Trade Republic, including a PRD, Story Map, Jira backlog, Figma prototype, and product presentation.
 
 # Trade Republic Wallets – Product Management Case Study
+![Product Management](https://img.shields.io/badge/Product%20Management-0052CC?style=for-the-badge)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![MVP](https://img.shields.io/badge/MVP-00C853?style=for-the-badge)
+![PRD](https://img.shields.io/badge/PRD-FF9800?style=for-the-badge)
+![Story Mapping](https://img.shields.io/badge/Story%20Mapping-7B1FA2?style=for-the-badge)
 
 A complete Product Management case study designed during the Ironhack AI Product Management Bootcamp.
 
-This project explores how **Trade Republic** could evolve from a platform focused on investing into a more complete financial management experience by introducing **Wallets**—a feature that allows users to organize cash into multiple virtual wallets for different financial purposes.
+This project explores how **Trade Republic** could evolve from a platform focused on investing into a more complete financial management experience by introducing **Wallets**—a feature that allows users to organise cash into multiple virtual wallets for different financial purposes.
 
-Rather than simply proposing a feature, this project demonstrates an end-to-end Product Management process, from defining the problem to designing an MVP, prioritizing features, creating a product roadmap, and validating the user experience with an interactive prototype.
+Rather than simply proposing a feature, this project demonstrates an end-to-end Product Management process, from defining the problem to designing an MVP, prioritising features, creating a product roadmap, and validating the user experience with an interactive prototype.
 
 ---
 
 ## 🚀 Project Overview
 
-Many users keep their cash inside Trade Republic but still rely on external banking or budgeting apps to organize their money for different goals.
+Many users keep their cash inside Trade Republic but still rely on external banking or budgeting apps to organise their money for different goals.
 
 The proposed solution introduces **Wallets**, allowing users to:
 
@@ -22,7 +28,7 @@ The proposed solution introduces **Wallets**, allowing users to:
 - Keep all available cash within Trade Republic
 - Create a foundation for future automation and smart financial features
 
-The project focuses on delivering a realistic MVP while demonstrating Product Management thinking, prioritization, and product strategy.
+The project focuses on delivering a realistic MVP while demonstrating Product Management thinking, prioritisation, and product strategy.
 
 ---
 
@@ -147,7 +153,7 @@ https://www.figma.com/proto/C83Q4PnidJIeDFwOhLWVto/Trade-Republic-Wallets---Prot
 # 📄 Project Deliverables
 
 ### Product Requirements Document (PRD)
-[📄 View Product Requirements Document](PRD.md)
+[View Product Requirements Document](PRD.md)
 
 Defines:
 
@@ -164,7 +170,7 @@ Defines:
 ---
 
 ### Story Map
-[🗺️ View Story Map](UserStoryMap.pdf)
+[View Story Map](UserStoryMap.pdf)
 
 A complete Story Mapping exercise was used to:
 
@@ -236,6 +242,18 @@ This repository was created as part of the **Ironhack AI Product Management Boot
 The objective was to apply a complete Product Management workflow to a realistic product challenge, demonstrating structured thinking, prioritisation, product strategy, and user-centred design rather than software development.
 
 Although this is a conceptual project, every artefact was created following common Product Management practices used in real product teams.
+
+---
+
+## 💭 Reflection
+
+This project allowed me to apply an end-to-end Product Management process, from identifying a user problem to designing and presenting a validated MVP.
+
+Throughout the project, I practised translating business needs into clear product requirements, prioritising features through Story Mapping, writing detailed user stories with acceptance criteria, and creating a realistic product roadmap. Building the interactive prototype also reinforced the importance of aligning product strategy, user experience, and implementation feasibility.
+
+One of the most valuable lessons was the importance of **MVP discipline**. During development, several ideas—such as Goal-Based Saving and Wallet Automation—emerged as valuable additions. Instead of expanding the first release, they were intentionally prioritized for future iterations to keep the MVP focused on validating the core value proposition.
+
+If this project were to continue, the next step would be to validate the Wallets MVP through user testing and analytics before investing in additional functionality. User feedback would guide future releases and help ensure that new features solve real customer needs while supporting Trade Republic's long-term vision of becoming a complete financial management platform.
 
 ---
 
