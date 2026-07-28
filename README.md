@@ -147,7 +147,7 @@ https://www.figma.com/proto/C83Q4PnidJIeDFwOhLWVto/Trade-Republic-Wallets---Prot
 # 📄 Project Deliverables
 
 ### Product Requirements Document (PRD)
-[📄 View Product Requirements Document](./Trade Republic Wallets-PRD.md)
+[📄 View Product Requirements Document](Trade Republic Wallets-PRD.md)
 
 Defines:
 
