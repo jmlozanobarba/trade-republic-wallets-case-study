@@ -115,19 +115,7 @@ Examples:
 - Personalized recommendations
 - Cash flow forecasting
 
----
 
-## 📂 Project Deliverables
-
-This repository contains the key artefacts produced during the product development process:
-
-| Deliverable | Description |
-|-------------|-------------|
-| 📄 Product Requirements Document | Complete PRD defining the problem, solution, MVP scope, requirements, KPIs, and roadmap. |
-| 🗺️ Story Map | Visual representation of the user journey, activities, tasks, MVP, and future releases. |
-| 📋 Jira Backlog | Prioritized backlog with Epics, User Stories, Sprint planning, and estimations. |
-| 🎨 Figma Presentation | Complete product presentation explaining the case study from problem to solution. |
-| 🧩 Interactive Prototype | Clickable high-fidelity prototype demonstrating the Wallets MVP. |
 
 ---
 
@@ -159,6 +147,7 @@ https://www.figma.com/proto/C83Q4PnidJIeDFwOhLWVto/Trade-Republic-Wallets---Prot
 # 📄 Project Deliverables
 
 ### Product Requirements Document (PRD)
+[📄 View Product Requirements Document](./Trade Republic Wallets-PRD.md)
 
 Defines:
 
