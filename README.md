@@ -223,7 +223,6 @@ This project showcases practical PM skills including:
 
 - Figma
 - Jira
-- Notion
 
 ---
 
