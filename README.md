@@ -2,6 +2,10 @@
 End-to-end Product Management case study for a Wallets MVP at Trade Republic, including a PRD, Story Map, Jira backlog, Figma prototype, and product presentation.
 
 # Trade Republic Wallets – Product Management Case Study
+<p align="center">
+  <img src="./hero-banner.png" alt="Trade Republic Wallets MVP - Hero Banner" width="100%">
+</p>
+
 ![Product Management](https://img.shields.io/badge/Product%20Management-0052CC?style=for-the-badge)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
