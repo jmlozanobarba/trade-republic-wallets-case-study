@@ -1,13 +1,7 @@
-# Trade Republic's Wallets Feature: Organizing Money for Financial Goals
-
-* [ ] 
-
-# Product Requirements Document (PRD)
-
-# **Feature: Wallets**
+# Trade Republic Wallets: Product Requirements Document (PRD)
 
 **Product:** Trade Republic  
-**Author:** Inder, Jose Manuel and Sakshi - Product Management Team  
+**Author:** Inder, Jose Manuel and Sakshi - Ironhack Students 
 **Status:** Validating
 
 **AI Assistance Disclosure:**
