@@ -20,6 +20,26 @@ This project explores how **Trade Republic** could evolve from a platform focuse
 
 Rather than simply proposing a feature, this project demonstrates an end-to-end Product Management process, from defining the problem to designing an MVP, prioritising features, creating a product roadmap, and validating the user experience with an interactive prototype.
 
+
+## 📑 Table of Contents
+
+- [Overview](#overview)
+- [Problem Statement](#problem-statement)
+- [Objectives](#objectives)
+- [Research](#research)
+- [User Personas](#user-personas)
+- [User Journey](#user-journey)
+- [Story Mapping](#story-mapping)
+- [User Stories](#user-stories)
+- [MVP Definition](#mvp-definition)
+- [Product Roadmap](#product-roadmap)
+- [Wireframes](#wireframes)
+- [AI Integration](#ai-integration)
+- [Results](#results)
+- [Tools Used](#tools-used)
+- [Repository Structure](#repository-structure)
+- [Author](#author)
+- [License](#license)
 ---
 
 ## 🚀 Project Overview
