@@ -9,6 +9,7 @@ End-to-end Product Management case study for a Wallets MVP at Trade Republic, in
 ![Product Management](https://img.shields.io/badge/Product%20Management-0052CC?style=for-the-badge)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
 ![MVP](https://img.shields.io/badge/MVP-00C853?style=for-the-badge)
 ![PRD](https://img.shields.io/badge/PRD-FF9800?style=for-the-badge)
 ![Story Mapping](https://img.shields.io/badge/Story%20Mapping-7B1FA2?style=for-the-badge)
