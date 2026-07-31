@@ -283,8 +283,8 @@ If this project were to continue, the next step would be to validate the Wallets
 
 ## 👤 Author
 
-**Jose Manuel Lozano**
+**[Jose Manuel Lozano](https://www.linkedin.com/in/jose-manuel-lozano-barba/?locale=en-US)**
 
-LinkedIn: https://www.linkedin.com/in/jose-manuel-lozano-barba/?locale=en-US
+
 
 GitHub: https://github.com/jmlozanobarba
