@@ -35,7 +35,7 @@ Rather than simply proposing a feature, this project demonstrates an end-to-end 
 - [📸 Project Preview](#-project-preview)
 - [📚 About this Project](#-about-this-project)
 - [💭 Reflection](#-reflection)
-- [👤 Author](#-author)
+- [👥 Team](#-team)
 
 
 
@@ -281,10 +281,11 @@ If this project were to continue, the next step would be to validate the Wallets
 
 ---
 
-## 👤 Author
+## 👥 Team
 
-**[Jose Manuel Lozano](https://www.linkedin.com/in/jose-manuel-lozano-barba/?locale=en-US)**
+This case study was developed collaboratively by:
+
+- **Jose Manuel Lozano** – [LinkedIn](https://www.linkedin.com/in/jose-manuel-lozano-barba/?locale=en-US) · [GitHub](https://github.com/jmlozanobarba)
+- **Inder M Chauhan** – [LinkedIn](https://www.linkedin.com/in/inder-chauhan/) · [GitHub](https://github.com/chauhaninder)
 
 
-
-GitHub: https://github.com/jmlozanobarba
