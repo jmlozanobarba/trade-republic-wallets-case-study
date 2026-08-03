@@ -287,6 +287,6 @@ This case study was developed collaboratively by:
 
 - **Jose Manuel Lozano** – [LinkedIn](https://www.linkedin.com/in/jose-manuel-lozano-barba/?locale=en-US) · [GitHub](https://github.com/joselozano-pm)
 - **Inder M Chauhan** – [LinkedIn](https://www.linkedin.com/in/inder-chauhan/) · [GitHub](https://github.com/chauhaninder)
-- - **Sakshi Gaur** – [LinkedIn](https://www.linkedin.com/in/sakshi-gaur-968895194/) · [GitHub](https://github.com/sakshig98-creator)
+- **Sakshi Gaur** – [LinkedIn](https://www.linkedin.com/in/sakshi-gaur-968895194/) · [GitHub](https://github.com/sakshig98-creator)
 
 
